@@ -1,0 +1,10 @@
+.venv/
+.terraform/
+__pycache__/
+*.py[cod]
+*.auto.tfvars
+.env
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
