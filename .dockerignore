@@ -1,0 +1,13 @@
+.git/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/
+.env
+.env.*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
